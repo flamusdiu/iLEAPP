@@ -7,7 +7,6 @@ iLEAPP Wiki!
 
    prerequisites
    usage
-   modules
 
 .. toctree::
    :maxdepth: 2
@@ -27,7 +26,11 @@ iLEAPP Wiki!
 
    artifacts/accounts
 
+.. toctree::
+   :maxdepth: 4
+   :caption: API
 
+   api/Artifact
 
 .. thumbnail:: _images/ileapp_cover.png
    :title: iLEAPP Cover
