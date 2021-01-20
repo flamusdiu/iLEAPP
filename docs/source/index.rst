@@ -30,7 +30,7 @@ iLEAPP Wiki!
    :maxdepth: 4
    :caption: API
 
-   api/Artifact
+   api/Artifacts
 
 .. thumbnail:: _images/ileapp_cover.png
    :title: iLEAPP Cover
