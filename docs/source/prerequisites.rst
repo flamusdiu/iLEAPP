@@ -9,16 +9,20 @@ Prerequisites
 
     astc_decomp
     biplist
+    blackboxprotobuf
     bs4
-    pyliblzfse
+    nska-deserialize>=1.3.1
+    numpy==1.19.3
     packaging==20.1
+    pandas
     pathlib2==2.3.5
     pillow
+    prettytable
     pyinstaller
+    pyliblzfse
     PySimpleGUI==4.16.0
-    blackboxprotobuf
-    nska-deserialize
-    biplist
+    simplekml
+
 
 3. If you are running on Linux add the tkinter library as so: 
 
